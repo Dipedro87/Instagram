@@ -1,5 +1,3 @@
 # Instagram
 
-🔨
-HTML básico 
-CSS básico
+Landing Page do Instagram
